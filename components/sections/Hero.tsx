@@ -68,10 +68,10 @@ export default function Hero() {
               </div>
             </div>
             <div className="flex justify-center items-center my-6">
-              <div className="h-[300px]">
+              <div className="w-[300px] h-[300px] bg-white shadow-md rounded-md">
                 <img
                   className="object-cover h-full"
-                  src="/image/Indrani.jpg"
+                  src="/image/Indrani.png"
                   alt="Hero Image"
                 />
               </div>
