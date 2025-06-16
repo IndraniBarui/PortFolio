@@ -110,7 +110,7 @@ const projects = [
       "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800&q=80",
     technologies: ["Next js", "Tailwind Css", "HTML"],
     github: "https://github.com/IndraniBarui/CodeBlog",
-    live: "https://code-blog-d534-2whhmzzuu-indranis-projects-4a1af97c.vercel.app/",
+    live: "https://code-blog-d534-h2rp3kpy0-indranis-projects-4a1af97c.vercel.app/",
     stars: 45,
   },
   {
