@@ -64,7 +64,7 @@ export default function Hero() {
                     </motion.span>
                   </Link>
                 </Button>
-                <ResumeComponents />
+                {/* <ResumeComponents /> */}
               </div>
             </div>
             <div className="flex justify-center items-center my-6">

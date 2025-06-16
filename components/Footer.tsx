@@ -82,7 +82,7 @@ export default function Footer() {
                   </a>
                 </Button>
               </div>
-              <ResumeComponents />
+              {/* <ResumeComponents /> */}
             </div>
           </motion.div>
         </div>

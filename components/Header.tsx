@@ -62,7 +62,7 @@ export default function Header() {
                 {item.name}
               </motion.a>
             ))}
-            <ResumeComponents name="Resume" />
+            {/* <ResumeComponents name="Resume" /> */}
           </div>
 
           {/* Mobile Navigation Toggle */}
