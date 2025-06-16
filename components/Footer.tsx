@@ -22,7 +22,7 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-2 text-muted-foreground">
                 <Phone className="h-4 w-4" />
-                +91 8617565583
+                +91 8777851602
               </p>
               <p className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="h-4 w-4" />
@@ -50,7 +50,7 @@ export default function Footer() {
                   asChild
                 >
                   <a
-                    href="https://github.com/githubsouvick7"
+                    href="https://github.com/IndraniBarui"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -64,7 +64,7 @@ export default function Footer() {
                   asChild
                 >
                   <a
-                    href="https://linkedin.com/in/mesouvickchakraborty"
+                    href="https://www.linkedin.com/in/indrani-barui-575b80229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -77,7 +77,7 @@ export default function Footer() {
                   className="hover:scale-110 transition-transform"
                   asChild
                 >
-                  <a href="mailto:hellosouvickk@gmail.com">
+                  <a href="mailto:indranibarui9@gmial.com">
                     <Mail className="h-5 w-5" />
                   </a>
                 </Button>

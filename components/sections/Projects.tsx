@@ -105,7 +105,7 @@ const projects = [
   {
     title: "CodeBlog",
     description:
-      "Snapdeal Clone is a feature-rich web application that replicates the popular e-commerce platform Snapdeal, offering a seamless online shopping experience.",
+      "CodeBlog – Developed a personal blogging platform to share code snippets and programming tutorials. Built with React and Node.js, featuring syntax highlighting, markdown support, and a clean, developer-friendly UI.",
     image:
       "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800&q=80",
     technologies: ["Next js", "Tailwind Css", "HTML"],
@@ -116,7 +116,7 @@ const projects = [
   {
     title: "PinRest",
     description:
-      "Experience the ultimate video-sharing platform with our React-based YouTube clone. Seamlessly watch, upload, and engage with content in a familiar and dynamic user interface.",
+      "Pinterest Clone – Built a fully responsive Pinterest-style image-sharing app using React and Node.js. Implemented features like image upload, user authentication, infinite scroll, and dynamic grid layout to mimic the original platform’s UI and UX.",
     image:
       "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800&q=80",
     technologies: ["ReactJs", "CSS", "Tailwind CSS", "HTML"],
@@ -127,7 +127,7 @@ const projects = [
   {
     title: "Recipe Finder",
     description:
-      "This is an IMDB (Internet Movie Database) clone, a web application that allows users to browse and search for movies, view movie details. The application aims to replicate the core features and functionality of the popular IMDB website.",
+      "Recipe Finder – Created a user-friendly web app to search and discover recipes based on ingredients or meal types. Built with React and integrated with a public recipe API to display detailed cooking instructions, images, and nutritional info.",
     image:
       "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
     technologies: ["ReactJs", "CSS", "Bootstrap", "HTML"],
@@ -136,9 +136,9 @@ const projects = [
     stars: 38,
   },
   {
-    title: "E-commerce site",
+    title: "E-commerce app",
     description:
-      "As the name suggests, this cloning project aims to create a Movie search website using React. Where you can find more information about your movie.",
+      "E-commerce App – Designed and developed a full-stack e-commerce application with user authentication, product listings, cart management, and secure checkout.",
     image:
       "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
     technologies: ["React Native", "Node js", "MongoDb", "Express js"],

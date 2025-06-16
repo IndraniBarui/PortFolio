@@ -11,9 +11,9 @@ export default function LinkPreviewDemo() {
         opportunities in esteemed organizations. I aim to grow through
         challenging roles that utilize my technical skills while driving
         meaningful impact. I developed{" "}
-        <LinkPreview url="https://jobspring.org" className="font-bold">
-          Job-Spring
-        </LinkPreview>
+        {/* <LinkPreview url="https://jobspring.org" className="font-bold"> */}
+         CareerHub
+        {/* </LinkPreview> */}
         , a job-hunting platform with advanced filters and location-based
         search, showcasing my full-stack expertise.
         <br />
